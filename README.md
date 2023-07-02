@@ -34,3 +34,7 @@ The dataset contains high-resolution _(5472 x 3648 pixels)_ aerial images of ove
   ##### A sample output is shown below:
 
 ![image](https://drive.google.com/uc?export=view&id=1gNY7mtz5nlOq4sbnQQkfhbyvIitQCos_)
+
+  ###### Here are the results of predicting on the same image by YOLOv8 and YOLO-NAS models after being trained for 50 epochs:
+  ![image](https://drive.google.com/uc?export=view&id=1N_1IxDGdBli3C4yxeFWd8rgcXRzPR5D3)
+  As it can be seen, YOLO-NAS is significantly better at predicting the bounding boxes for the most important class of this project - insulators.
