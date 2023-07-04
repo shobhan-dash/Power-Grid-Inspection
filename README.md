@@ -1,6 +1,6 @@
 # Development of Deep Learning Architectures for Inspection and Monitoring of Power Line Infrastructure
 ### Overview
-This project is a part of our Practise School-I curriculum of BITS Pilani, undertaken by us from May-July 2023 at [CSIR-CEERI](https://ceeri.res.in), Pilani, Rajasthan. The project was completed under the guidance of [Dr. Sumeet Saurav](https://ieeexplore.ieee.org/author/37085633251), Senior Scientist, CSIR-CEERI. 
+This project is a part of our Practise School-I curriculum of BITS Pilani, undertaken by us from May-July 2023 at [CSIR-CEERI](https://ceeri.res.in), Pilani, Rajasthan. The project was completed under the guidance of [Dr. Sumeet Saurav](https://www.ceeri.res.in/profiles/sumeet-saurav/), Senior Scientist, CSIR-CEERI. ([IEEE Page](https://ieeexplore.ieee.org/author/37085633251))
 <br/>
 The aim of this project is to detect and classify various electrical components in the power grids, localize them, and detect faults and other points of failure. The dataset for this project can be found [here](https://github.com/andreluizbvs/PLAD). 
 
@@ -38,3 +38,8 @@ The dataset contains high-resolution _(5472 x 3648 pixels)_ aerial images of ove
   ###### Here are the results of predicting on the same image by YOLOv8 and YOLO-NAS models after being trained for 50 epochs:
   ![image](https://drive.google.com/uc?export=view&id=1N_1IxDGdBli3C4yxeFWd8rgcXRzPR5D3)
   As it can be seen, YOLO-NAS is significantly better at predicting the bounding boxes for the most important class of this project - insulators.
+
+  #### Project Contributors:
+   - [Shobhan Dash](https://www.linkedin.com/in/shobhan-dash-0998ab228/)
+   - [Parth Rastogi](https://www.linkedin.com/in/parth-rastogi-b31415222/)
+   - [Jatin Jindal](https://www.linkedin.com/in/jatinjindal322/)
