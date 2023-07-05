@@ -38,7 +38,13 @@ The dataset contains high-resolution _(5472 x 3648 pixels)_ aerial images of ove
   ###### Here are the results of predicting on the same image by YOLOv8 and YOLO-NAS models after being trained for 50 epochs:
   ![image](https://drive.google.com/uc?export=view&id=1N_1IxDGdBli3C4yxeFWd8rgcXRzPR5D3)
   As it can be seen, YOLO-NAS is significantly better at predicting the bounding boxes for the most important class of this project - insulators.
-
+  #### mAP@0.50 values for each class:
+   - damper: 0.8333
+   - insulator: 0.9
+   - plate: 0.8
+   - spacer: 0.9
+   - tower: 0.9667
+     
   #### Project Contributors:
    - [Shobhan Dash](https://www.linkedin.com/in/shobhan-dash-0998ab228/)
    - [Parth Rastogi](https://www.linkedin.com/in/parth-rastogi-b31415222/)
